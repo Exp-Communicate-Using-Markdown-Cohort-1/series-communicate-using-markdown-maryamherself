@@ -5,3 +5,8 @@ this is another simple sentence with an image.
 ![sample image](https://octodex.github.com/images/mona-the-rivetertocat.png)
 ### sub-sub-topic
 and this is another one!
+here is a code example:
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
